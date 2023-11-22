@@ -3,7 +3,7 @@ import React from "react";
 export default function () {
   return (
     <div>
-      <div className="navbar bg-base-100">
+      <div className="navbar bg-base-100  shadow-lg">
         <div className="navbar-start">
           <div className="dropdown">
             <label tabIndex={0} className="btn btn-ghost btn-circle">
@@ -39,7 +39,7 @@ export default function () {
           </div>
         </div>
         <div className="navbar-center">
-          <a className="btn btn-ghost text-xl">daisyUI</a>
+          <a className="btn btn-ghost text-xl">Heal Hub Hospital</a>
         </div>
         <div className="navbar-end">
           <button className="btn btn-ghost btn-circle">
