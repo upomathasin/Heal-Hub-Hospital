@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default function () {
   return (
@@ -27,13 +28,13 @@ export default function () {
               className="menu menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52"
             >
               <li>
-                <a>Homepage</a>
+                <Link to="/home">Home</Link>
               </li>
               <li>
-                <a>Portfolio</a>
+                <Link to="/services">Services</Link>
               </li>
               <li>
-                <a>About</a>
+                <Link to="/about">About Us</Link>
               </li>
             </ul>
           </div>

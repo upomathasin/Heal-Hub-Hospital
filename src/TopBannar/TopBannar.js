@@ -11,13 +11,13 @@ export default function TopBannar() {
                 <h1 className="text-2xl  mb-5  text-primary">
                   Welcome to Heal Hub
                 </h1>
-                <h1 className=" text-5xl  font-bold  text-slate-800">
+                <h1 className=" text-4xl lg:text-5xl  font-bold  text-slate-800">
                   We Are Here to Hear
                 </h1>
-                <h1 className=" text-5xl  font-bold  text-slate-800">
+                <h1 className=" text-4xl lg:text-5xl  font-bold  text-slate-800">
                   and Heal Your
                 </h1>
-                <h1 className=" text-5xl font-bold  text-slate-800">
+                <h1 className="text-4xl lg:text-5xl font-bold  text-slate-800 ">
                   Health Problems
                 </h1>
 
