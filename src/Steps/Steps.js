@@ -13,7 +13,7 @@ export default function Steps() {
             Heal Hub
           </h2>
         </div>
-        <ul className=" steps   steps-vertical">
+        <ul className=" steps steps-vertical  ">
           <li className="step step-primary">
             <div className="grid grid-cols-1 ">
               <img src="1.png" style={{ width: "80px" }} className=" " />

@@ -1,6 +1,18 @@
-import React from "react";
+import React, { useContext } from "react";
+import { AuthContext } from "../AuthContextProvider/AuthContextProvider";
+import { useForm } from "react-hook-form";
 
 export default function Login() {
+  const { signInUser } = useContext(AuthContext);
+
+  const { register, handleSubmit } = useForm();
+  const onSubmit = (data) => {
+    const { email, password } = data;
+    signInUser(email, password)
+      .then((userCredential) => console.log(userCredential.user))
+      .catch((error) => console.log(error));
+  };
+
   return (
     <div>
       <div className="hero min-h-screen bg-base-200">
@@ -14,12 +26,13 @@ export default function Login() {
             </p>
           </div>
           <div className="card shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
-            <form className="card-body">
+            <form className="card-body" onSubmit={handleSubmit(onSubmit)}>
               <div className="form-control">
                 <label className="label">
                   <span className="label-text">Email</span>
                 </label>
                 <input
+                  {...register("email")}
                   type="email"
                   placeholder="email"
                   className="input input-bordered"
@@ -31,6 +44,7 @@ export default function Login() {
                   <span className="label-text">Password</span>
                 </label>
                 <input
+                  {...register("password")}
                   type="password"
                   placeholder="password"
                   className="input input-bordered"

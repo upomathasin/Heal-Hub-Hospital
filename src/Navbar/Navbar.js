@@ -31,6 +31,12 @@ export default function () {
                 <Link to="/home">Home</Link>
               </li>
               <li>
+                <Link to="/register">Registration</Link>
+              </li>
+              <li>
+                <Link to="/login">Login</Link>
+              </li>
+              <li>
                 <Link to="/services">Services</Link>
               </li>
               <li>
@@ -40,7 +46,13 @@ export default function () {
           </div>
         </div>
         <div className="navbar-center">
-          <a className="btn btn-ghost text-xl">Heal Hub Hospital</a>
+          <a className="btn btn-ghost text-xl">
+            <img
+              src="https://i.ibb.co/3CNFdj3/hospital.png"
+              style={{ width: "20px" }}
+            />{" "}
+            Heal Hub Hospital
+          </a>
         </div>
         <div className="navbar-end">
           <button className="btn btn-ghost btn-circle">

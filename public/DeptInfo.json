@@ -1,0 +1,44 @@
+[
+  {
+    "id": "9f1e6708-d5e4-4c53-8e21-1261ff3d1ac1",
+    "name": "Orthopedics",
+    "description": "Specializing in bone and joint care with advanced techniques.",
+    "image": "https://i.ibb.co/TbfxW7Q/ortho.png",
+    "details": "Our Orthopedics department is committed to providing comprehensive bone and joint care. Services include joint replacement surgeries, minimally invasive procedures, orthopedic rehabilitation, and specialized treatments for musculoskeletal conditions."
+  },
+  {
+    "id": "6b2e7143-2c6e-48ec-a92e-8d11b2c6712f",
+    "name": "Neurology",
+    "description": "Providing top-notch neurological care and advanced procedures.",
+    "image": "https://i.ibb.co/tmkv7R6/neuro.png",
+    "details": "In our Neurology department, we offer advanced neurological care, including diagnostics and treatment for various neurological disorders. Our services encompass neurosurgery, neuroimaging, and comprehensive care for neurological conditions."
+  },
+  {
+    "id": "a4fc4131-0764-4cb3-aa11-8b21ccf4d9c6",
+    "name": "Gastroenterology",
+    "description": "Excellence in gastrointestinal care with advanced procedures.",
+    "image": "https://i.ibb.co/9n7G82z/gastroenterology.png",
+    "details": "Discover excellence in gastrointestinal care with our Gastroenterology department. We provide a range of services, including advanced endoscopic procedures, colonoscopies, digestive health consultations, and personalized treatment plans."
+  },
+  {
+    "id": "7e998b0a-78c1-4fb8-aa1a-0f99d42ef43b",
+    "name": "Oncology",
+    "description": "Focus on exceptional cancer care for various cancers.",
+    "image": "https://i.ibb.co/ZgYNXMC/observation.png",
+    "details": "Our Oncology department is dedicated to providing exceptional cancer care. Services include personalized treatment plans, chemotherapy, radiation therapy, and advanced oncological surgeries for a wide range of cancer types."
+  },
+  {
+    "id": "fb23999a-3c57-4262-b9f1-273693cd61d5",
+    "name": "Transplants",
+    "description": "Renowned for transplant services and critical cardiac.",
+    "image": "https://i.ibb.co/47nJzQV/kidney.png",
+    "details": "Renowned for life-saving transplant services, our Transplants department specializes in kidney, heart, and liver transplants. We provide comprehensive pre-transplant evaluations, transplant surgeries, and post-transplant care with a focus on critical cardiac conditions."
+  },
+  {
+    "id": "c65e3a27-9993-4a56-a16b-5371c64719c9",
+    "name": "Cardiology",
+    "description": "State-of-the-art cardiac care with advanced procedures.",
+    "image": "https://i.ibb.co/ScFDJsM/cardiology.png",
+    "details": "Experience state-of-the-art cardiac care in our Cardiology department. Our services include advanced diagnostic procedures, interventional cardiology, angioplasty, bypass surgeries, and comprehensive cardiac rehabilitation for optimal heart health."
+  }
+]

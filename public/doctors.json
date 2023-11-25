@@ -1,0 +1,92 @@
+[
+  {
+    "id":"1",
+    "name": "Dr. Hooman Azmi",
+
+    "birthplace": "North Way, Indonesia",
+    "best":"true",
+    "education": {
+      "university": "University Name",
+      "graduationYear": "Year"
+    },
+    "specialization": "Dental",
+    "image": "https://example.com/dr-hooman-azmi-image.jpg"
+  },
+  {
+    "id":"2",
+    "name": "Dr. Sarah Smith",
+    "birthplace": "Cityville, USA",
+    "education": {
+      "university": "City University",
+      "graduationYear": "Year"
+    },
+    "specialization": "Orthodontics",
+    "image": "https://example.com/dr-sarah-smith-image.jpg"
+  },
+  {
+    "id":"3",
+    "name": "Dr. John Doe",
+    "birthplace": "Suburbia, Canada",
+    "education": {
+      "university": "Dental College",
+      "graduationYear": "Year"
+    },
+    "specialization": "Periodontics",
+    "image": "https://example.com/dr-john-doe-image.jpg"
+  },
+  {
+    "id":"4",
+    "name": "Dr. Maria Garcia",
+    "birthplace": "Seaside, Spain",
+    "education": {
+      "university": "Spanish Dental School",
+      "graduationYear": "Year"
+    },
+    "specialization": "Pediatric Dentistry",
+    "image": "https://example.com/dr-maria-garcia-image.jpg"
+  },
+  {
+    "id":"5",
+    "name": "Dr. Ahmed Khan",
+    "birthplace": "City of Sands, Saudi Arabia",
+    "education": {
+      "university": "Saudi Dental Institute",
+      "graduationYear": "Year"
+    },
+    "specialization": "Prosthodontics",
+    "image": "https://example.com/dr-ahmed-khan-image.jpg"
+  },
+  {
+    "id":"6",
+    "name": "Dr. Mei Ling",
+    "birthplace": "Cherry Blossom City, China",
+    "education": {
+      "university": "Beijing Dental School",
+      "graduationYear": "Year"
+    },
+    "specialization": "Endodontics",
+    "image": "https://example.com/dr-mei-ling-image.jpg"
+  },
+  {
+    "id":"7",
+    "name": "Dr. Carlos Rodriguez",
+    "birthplace": "Lively City, Mexico",
+    "education": {
+      "university": "Mexican Dental College",
+      "graduationYear": "Year"
+    },
+    "specialization": "Oral Surgery",
+    "image": "https://example.com/dr-carlos-rodriguez-image.jpg"
+  },
+  {
+    "id":"8",
+    "name": "Dr. Aisha Patel",
+    "birthplace": "Cultural Hub City, India",
+    "education": {
+      "university": "Indian Dental Institute",
+      "graduationYear": "Year"
+    },
+    "specialization": "Orthodontics",
+    "image": "https://example.com/dr-aisha-patel-image.jpg"
+  }
+]
