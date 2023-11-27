@@ -5,6 +5,7 @@
     "description": "Specializing in bone and joint care with advanced techniques.",
     "image": "https://i.ibb.co/TbfxW7Q/ortho.png",
     "details": "Our Orthopedics department is committed to providing comprehensive bone and joint care. Services include joint replacement surgeries, minimally invasive procedures, orthopedic rehabilitation, and specialized treatments for musculoskeletal conditions."
+  ,"featured":true
   },
   {
     "id": "6b2e7143-2c6e-48ec-a92e-8d11b2c6712f",
@@ -12,6 +13,7 @@
     "description": "Providing top-notch neurological care and advanced procedures.",
     "image": "https://i.ibb.co/tmkv7R6/neuro.png",
     "details": "In our Neurology department, we offer advanced neurological care, including diagnostics and treatment for various neurological disorders. Our services encompass neurosurgery, neuroimaging, and comprehensive care for neurological conditions."
+    ,"featured":true
   },
   {
     "id": "a4fc4131-0764-4cb3-aa11-8b21ccf4d9c6",
@@ -19,6 +21,7 @@
     "description": "Excellence in gastrointestinal care with advanced procedures.",
     "image": "https://i.ibb.co/9n7G82z/gastroenterology.png",
     "details": "Discover excellence in gastrointestinal care with our Gastroenterology department. We provide a range of services, including advanced endoscopic procedures, colonoscopies, digestive health consultations, and personalized treatment plans."
+    ,"featured":true
   },
   {
     "id": "7e998b0a-78c1-4fb8-aa1a-0f99d42ef43b",
@@ -26,6 +29,7 @@
     "description": "Focus on exceptional cancer care for various cancers.",
     "image": "https://i.ibb.co/ZgYNXMC/observation.png",
     "details": "Our Oncology department is dedicated to providing exceptional cancer care. Services include personalized treatment plans, chemotherapy, radiation therapy, and advanced oncological surgeries for a wide range of cancer types."
+    ,"featured":true
   },
   {
     "id": "fb23999a-3c57-4262-b9f1-273693cd61d5",
@@ -33,6 +37,7 @@
     "description": "Renowned for transplant services and critical cardiac.",
     "image": "https://i.ibb.co/47nJzQV/kidney.png",
     "details": "Renowned for life-saving transplant services, our Transplants department specializes in kidney, heart, and liver transplants. We provide comprehensive pre-transplant evaluations, transplant surgeries, and post-transplant care with a focus on critical cardiac conditions."
+    ,"featured":true
   },
   {
     "id": "c65e3a27-9993-4a56-a16b-5371c64719c9",
@@ -40,5 +45,56 @@
     "description": "State-of-the-art cardiac care with advanced procedures.",
     "image": "https://i.ibb.co/ScFDJsM/cardiology.png",
     "details": "Experience state-of-the-art cardiac care in our Cardiology department. Our services include advanced diagnostic procedures, interventional cardiology, angioplasty, bypass surgeries, and comprehensive cardiac rehabilitation for optimal heart health."
+    ,"featured":true
+  },
+
+
+  {
+    "id": "1a7aaf38-0b4f-4d38-89c3-8d5f146b9724",
+    "name": "Pulmonology",
+    "description": "Specialized care for respiratory conditions and lung diseases.",
+    "image":"https://i.ibb.co/gJ44j6T/pulmonology-intensive-care-medicine-allergology-specialty-others-e69fa660012ef6d0f354b709324a3980.png",
+    "details": "Our Pulmonology department is dedicated to the diagnosis and treatment of respiratory conditions. We provide expert care for asthma, chronic bronchitis, pulmonary infections, and lung diseases, utilizing advanced diagnostic tools and treatment modalities."
+  },
+  {
+    "id": "4c1c901c-2d02-4b79-9bfc-8c7760e45aef",
+    "name": "Obstetrics and Gynecology",
+    "description": "Comprehensive women's health services and maternity care.",
+    "image": "https://i.ibb.co/3B3fn1F/7i32t1ks6bm246vvhnr9tpd34a.png",
+    "details": "Our Obstetrics and Gynecology department offers comprehensive women's health services, including prenatal care, gynecological exams, family planning, and advanced maternity care. Our team of skilled professionals is committed to ensuring the well-being of women at every stage of life."
+  },
+  {
+    "id": "d9257589-7b4d-4b74-b14a-1ea3bbd66216",
+    "name": "Endocrinology",
+    "description": "Specializing in hormonal disorders and metabolic conditions.",
+    "image": "https://i.ibb.co/fn0gGvG/endocrine-system-thyroid-endocrinology-endocrine-gland-embryology-others-19e2e27a1d1b317522896c3abf8.png",
+    "details": "Experience specialized care for hormonal disorders and metabolic conditions in our Endocrinology department. We provide comprehensive services for diabetes management, thyroid disorders, adrenal issues, and other endocrine-related concerns, utilizing the latest diagnostic and treatment approaches."
+  },
+  {
+    "id": "f9c86927-5973-4481-96f8-5b75f4ad8502",
+    "name": "Dermatology",
+    "description": "Advanced skin care and dermatological treatments.",
+    "image": "https://i.ibb.co/gdFGkYh/dermatology.png",
+    "details": "Our Dermatology department offers advanced skin care and dermatological treatments. Services include diagnosis and management of skin conditions, cosmetic dermatology, laser therapy, and surgical procedures for optimal skin health and appearance."
+  },
+  {
+    "id": "862b933a-1551-4850-a1f0-8c56d4978b37",
+    "name": "ENT (Ear, Nose, Throat)",
+    "description": "Comprehensive care for ear, nose, and throat conditions.",
+    "image": "https://i.ibb.co/DYX489W/Png-Item-218814.png",
+    "details": "Receive comprehensive care for ear, nose, and throat conditions in our ENT department. Our skilled specialists offer services ranging from hearing evaluations, sinus treatments, and vocal cord care to advanced ENT surgeries, ensuring optimal health for your sensory and respiratory systems."
+  },
+  {
+    "id": "238e5c84-6d20-4d6f-9da8-6a1c573971a4",
+    "name": "Pediatrics",
+    "description": "Dedicated to the health and well-being of children.",
+    "image": "https://i.ibb.co/QfRX13c/pngegg-4.png",
+    "details": "Our Pediatrics department is dedicated to the health and well-being of children. We provide comprehensive pediatric care, including well-child checkups, vaccinations, acute illness management, and specialized services for pediatric conditions, ensuring a healthy start for every child."
   }
+
+
+
+
+
+
 ]

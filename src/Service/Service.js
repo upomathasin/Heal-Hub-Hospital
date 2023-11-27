@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 export default function Service({ service }) {
   const navigate = useNavigate();
   const showDetails = (service) => {
-    navigate(`service/${service.id}`, { state: service });
+    navigate(`/service/${service.id}`, { state: service });
   };
   return (
     <div className="card card-compact w-96 bg-base-100 shadow-xl rounded-none">

@@ -1,19 +1,131 @@
 [
-  {
-    "id":"1",
-    "name": "Dr. Hooman Azmi",
+  
 
+
+
+  {
+    "id": "e5b18a4a-1cb5-4a62-a5bd-c5e6c2168d4b",
+    "name": "Dr. Robert Miller",
+    "birthplace": "Harbor City, Australia",
+    "education": {
+      "university": "Sydney Dental School",
+      "graduationYear": "Year"
+    },
+    "specialization": "Oral and Maxillofacial Surgery",
+    "image": "https://example.com/dr-robert-miller-image.jpg"
+  },
+  {
+    "id": "2fdcb3c4-13f3-48a3-9f3e-3e283f7c17bb",
+    "name": "Dr. Priya Kapoor",
+    "birthplace": "Mumbai, India",
+    "education": {
+      "university": "Mumbai Dental Institute",
+      "graduationYear": "Year"
+    },
+    "specialization": "Pedodontics",
+    "image": "https://example.com/dr-priya-kapoor-image.jpg"
+  },
+  {
+    "id": "14c9a2ef-b8d4-40ac-8a3a-5360edbd6351",
+    "name": "Dr. Alberto Fernandez",
+    "birthplace": "Buenos Aires, Argentina",
+    "education": {
+      "university": "Argentinian Dental College",
+      "graduationYear": "Year"
+    },
+    "specialization": "Prosthodontics",
+    "image": "https://example.com/dr-alberto-fernandez-image.jpg"
+  },
+  {
+    "id": "c7d22b3d-0e46-42dd-9aa3-3dd683ed25ac",
+    "name": "Dr. Emily Johnson",
+    "birthplace": "Vancouver, Canada",
+    "education": {
+      "university": "University of British Columbia",
+      "graduationYear": "Year"
+    },
+    "specialization": "Orthodontics",
+    "image": "https://example.com/dr-emily-johnson-image.jpg"
+  },
+  {
+    "id": "35c8c256-dc38-477c-b6b2-c84dca64f754",
+    "name": "Dr. Hiroshi Takahashi",
+    "birthplace": "Tokyo, Japan",
+    "education": {
+      "university": "Tokyo Dental School",
+      "graduationYear": "Year"
+    },
+    "specialization": "Endodontics",
+    "image": "https://example.com/dr-hiroshi-takahashi-image.jpg"
+  },
+  {
+    "id": "0bd1c156-23d3-4d92-bfb4-9915b2eb5a57",
+    "name": "Dr. Fatima Ali",
+    "birthplace": "Cairo, Egypt",
+    "education": {
+      "university": "Egyptian Dental Institute",
+      "graduationYear": "Year"
+    },
+    "specialization": "Periodontics",
+    "image": "https://example.com/dr-fatima-ali-image.jpg"
+  },
+  {
+    "id": "d6b2d735-19a4-4bb5-8d4d-df29a6ea508c",
+    "name": "Dr. Antonio Silva",
+    "birthplace": "Lisbon, Portugal",
+    "education": {
+      "university": "Portuguese Dental College",
+      "graduationYear": "Year"
+    },
+    "specialization": "Oral Surgery",
+    "image": "https://example.com/dr-antonio-silva-image.jpg"
+  },
+  {
+    "id": "b94ee3f3-8f2d-4656-8a7b-03e59e049adc",
+    "name": "Dr. Sophia Wang",
+    "birthplace": "Shanghai, China",
+    "education": {
+      "university": "Shanghai Dental School",
+      "graduationYear": "Year"
+    },
+    "specialization": "Pediatric Dentistry",
+    "image": "https://example.com/dr-sophia-wang-image.jpg"
+  },
+  {
+    "id": "4562e60a-ae61-46b1-944b-9ff8a64ee4a1",
+    "name": "Dr. Ahmed Al-Mansoori",
+    "birthplace": "Dubai, UAE",
+    "education": {
+      "university": "Dubai Dental Institute",
+      "graduationYear": "Year"
+    },
+    "specialization": "Dental Implantology",
+    "image": "https://example.com/dr-ahmed-al-mansoori-image.jpg"
+  },
+  {
+    "id": "f10e6e05-78f7-4042-a4f5-7df65080ef79",
+    "name": "Dr. Isabella Rossi",
+    "birthplace": "Rome, Italy",
+    "education": {
+      "university": "Italian Dental School",
+      "graduationYear": "Year"
+    },
+    "specialization": "Prosthodontics",
+    "image": "https://example.com/dr-isabella-rossi-image.jpg"
+  },{
+    "id": "9f1e6708-d5e4-4c53-8e21-1261ff3d1ac1",
+    "name": "Dr. Hooman Azmi",
     "birthplace": "North Way, Indonesia",
-    "best":"true",
     "education": {
       "university": "University Name",
       "graduationYear": "Year"
     },
     "specialization": "Dental",
-    "image": "https://example.com/dr-hooman-azmi-image.jpg"
+    "image": "https://i.ibb.co/bgpHCJh/pngwing-com-7.png",
+    "featured": true
   },
   {
-    "id":"2",
+    "id": "6b2e7143-2c6e-48ec-a92e-8d11b2c6712f",
     "name": "Dr. Sarah Smith",
     "birthplace": "Cityville, USA",
     "education": {
@@ -21,10 +133,11 @@
       "graduationYear": "Year"
     },
     "specialization": "Orthodontics",
-    "image": "https://example.com/dr-sarah-smith-image.jpg"
+    "image": "https://i.ibb.co/v3vKy6n/pngwing-com-6.png",
+    "featured": true
   },
   {
-    "id":"3",
+    "id": "a4fc4131-0764-4cb3-aa11-8b21ccf4d9c6",
     "name": "Dr. John Doe",
     "birthplace": "Suburbia, Canada",
     "education": {
@@ -32,10 +145,11 @@
       "graduationYear": "Year"
     },
     "specialization": "Periodontics",
-    "image": "https://example.com/dr-john-doe-image.jpg"
+    "image": "https://i.ibb.co/bBFw83b/pngwing-com-5.png",
+    "featured": true
   },
   {
-    "id":"4",
+    "id": "7e998b0a-78c1-4fb8-aa1a-0f99d42ef43b",
     "name": "Dr. Maria Garcia",
     "birthplace": "Seaside, Spain",
     "education": {
@@ -43,10 +157,11 @@
       "graduationYear": "Year"
     },
     "specialization": "Pediatric Dentistry",
-    "image": "https://example.com/dr-maria-garcia-image.jpg"
+    "image": "https://i.ibb.co/br3z4Lj/pngwing-com-4.png",
+    "featured": true
   },
   {
-    "id":"5",
+    "id": "fb23999a-3c57-4262-b9f1-273693cd61d5",
     "name": "Dr. Ahmed Khan",
     "birthplace": "City of Sands, Saudi Arabia",
     "education": {
@@ -54,10 +169,11 @@
       "graduationYear": "Year"
     },
     "specialization": "Prosthodontics",
-    "image": "https://example.com/dr-ahmed-khan-image.jpg"
+    "image": "https://i.ibb.co/jzT6NSS/pngwing-com-3.png",
+    "featured": true
   },
   {
-    "id":"6",
+    "id": "c65e3a27-9993-4a56-a16b-5371c64719c9",
     "name": "Dr. Mei Ling",
     "birthplace": "Cherry Blossom City, China",
     "education": {
@@ -65,10 +181,11 @@
       "graduationYear": "Year"
     },
     "specialization": "Endodontics",
-    "image": "https://example.com/dr-mei-ling-image.jpg"
+    "image": "https://i.ibb.co/pKX3vQC/doctor-14119.png",
+    "featured": true
   },
   {
-    "id":"7",
+    "id": "3464aa10-c023-4f88-8b96-53ac7ad1a4fd",
     "name": "Dr. Carlos Rodriguez",
     "birthplace": "Lively City, Mexico",
     "education": {
@@ -76,10 +193,11 @@
       "graduationYear": "Year"
     },
     "specialization": "Oral Surgery",
-    "image": "https://example.com/dr-carlos-rodriguez-image.jpg"
+    "image": "https://i.ibb.co/7zqbgHY/doctor-14129.png",
+    "featured": true
   },
   {
-    "id":"8",
+    "id": "a6a7f12d-5872-4c56-ae4a-465548b5a7d8",
     "name": "Dr. Aisha Patel",
     "birthplace": "Cultural Hub City, India",
     "education": {
@@ -87,6 +205,7 @@
       "graduationYear": "Year"
     },
     "specialization": "Orthodontics",
-    "image": "https://example.com/dr-aisha-patel-image.jpg"
+    "image": "https://i.ibb.co/fkvCdHy/doctor-14053.png",
+    "featured": true
   }
 ]
