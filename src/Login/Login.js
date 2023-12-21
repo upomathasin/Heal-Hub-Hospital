@@ -17,7 +17,7 @@ export default function Login() {
         console.log(userCredential.user);
         navigate(pathname);
       })
-      .catch((error) => console.log(error));
+      .catch((error) => alert(error.message));
   };
 
   return (
