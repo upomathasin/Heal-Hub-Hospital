@@ -13,7 +13,7 @@ export default function Registration() {
     const auth = getAuth(app);
     const { email, password } = data;
     createUser(email, password)
-      .then((userCredential) => console.log(userCredential.user))
+      .then((userCredential) => alert(`Welcome ${userCredential.user.email}`))
       .catch((error) => console.log(error));
   };
   return (

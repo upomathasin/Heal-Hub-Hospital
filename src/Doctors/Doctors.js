@@ -12,11 +12,11 @@ export default function Doctors() {
     <div className="bg-base-200 min-h-screen p-20 flex flex-col justify-around items-center   ">
       <div>
         <h1 className="text-4xl text-center mb-4">Our Doctors</h1>
-        <p className="text-3xl text-center  text-slate-800">
-          List of Best Treatment Options
+        <p className="text-xl text-center   text-primary">
+          ---List of Best Doctors---
         </p>
       </div>
-      <div className=" mt-10 grid grid-rows-4  gap-10 md:grid-rows-2 grid-flow-col   ">
+      <div className=" mt-10 grid  grid-cols-1 md:grid-cols-4  gap-8 ">
         {doctors.map((doctor) => (
           <Doctor doctor={doctor} />
         ))}

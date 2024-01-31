@@ -10,6 +10,8 @@ import NotFoundPage from "./NotFoundPage/NotFoundPage";
 import About from "./About/About";
 import AllServices from "./AllServices/AllServices";
 import UserPrivateRoute from "./UserPrivateRoute/UserPrivateRoute";
+import Doctors from "./Doctors/Doctors";
+import DoctorDetails from "./DoctorDetails/DoctorDetails";
 
 function App() {
   const router = createBrowserRouter([
@@ -29,7 +31,30 @@ function App() {
             </UserPrivateRoute>
           ),
         },
-        { path: "/service/:id", element: <ServiceDetails></ServiceDetails> },
+        {
+          path: "/doctors",
+          element: (
+            <UserPrivateRoute>
+              <Doctors></Doctors>
+            </UserPrivateRoute>
+          ),
+        },
+        {
+          path: "/service/:id",
+          element: (
+            <UserPrivateRoute>
+              <ServiceDetails></ServiceDetails>
+            </UserPrivateRoute>
+          ),
+        },
+        {
+          path: "/doctor/:id",
+          element: (
+            <UserPrivateRoute>
+              <DoctorDetails></DoctorDetails>
+            </UserPrivateRoute>
+          ),
+        },
         { path: "/register", element: <Registration></Registration> },
         { path: "/about", element: <About></About> },
         { path: "*", element: <NotFoundPage></NotFoundPage> },

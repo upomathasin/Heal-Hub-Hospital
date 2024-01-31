@@ -5,7 +5,7 @@ export default function About() {
     <div className="hero min-h-screen bg-base-200">
       <div className="hero-content text-center">
         <div className="max-w-md">
-          <h1 className=" text-5xl font-bold  text-slate-700">About Us</h1>
+          <h1 className=" text-5xl font-bold  text-primary">About Us</h1>
           <p className="py-6   ">
             Heal Hub is a dedicated healthcare platform committed to providing
             compassionate and comprehensive medical services. Our mission is to

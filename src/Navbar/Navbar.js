@@ -50,6 +50,9 @@ export default function () {
                 <Link to="/services">All Services</Link>
               </li>
               <li>
+                <Link to="/doctors">All Doctors</Link>
+              </li>
+              <li>
                 <Link to="/about">About Us</Link>
               </li>
               {user ? (
@@ -81,7 +84,9 @@ export default function () {
             <li>
               <Link to="/register">Registration</Link>
             </li>
-
+            <li>
+              <Link to="/doctors">All Doctors</Link>
+            </li>
             <li>
               <Link to="/allservices">All Services</Link>
             </li>

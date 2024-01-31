@@ -20,7 +20,7 @@ export default function FeaturedDoctors() {
           ---List of our best Doctors---
         </p>
       </div>
-      <div className=" mt-10  grid-cols-1 md:grid grid-cols-4  gap-8 ">
+      <div className=" mt-10 gap-12  grid-cols-1 md:grid md:grid-cols-4  ">
         {doctors.map((doctor) => (
           <Doctor doctor={doctor} />
         ))}

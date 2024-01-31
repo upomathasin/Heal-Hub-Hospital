@@ -16,6 +16,7 @@ export default function Login() {
       .then((userCredential) => {
         console.log(userCredential.user);
         navigate(pathname);
+        alert("Login Successfull !!");
       })
       .catch((error) => alert(error.message));
   };
